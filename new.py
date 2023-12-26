@@ -17,7 +17,7 @@ I want you to act as a ChatGPT prompt generator, I will send a topic, you have t
 
 
 client = OpenAI(
-  api_key='GPT-API-KEY'
+  api_key='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'
   )
 for _ in range(1):  # Örneğin, kez dönüyor
     time.sleep(10)

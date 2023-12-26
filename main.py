@@ -16,7 +16,7 @@ I want you to act as a ChatGPT prompt generator, I will send a topic, you have t
 """
 #client yapısıyla oluşturmadan hatalı sonuç döndürüyoruz.
 client = OpenAI(
-  api_key='GPT-API-KEY'
+  api_key='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'
 )
 while True:
     user_input = input('You: ')
