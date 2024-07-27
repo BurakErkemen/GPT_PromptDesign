@@ -1,0 +1,2 @@
+GeminiAPI="AIzaSyC4D2fa6J7dPiF06yA8N2oeZYNECLCMJD0"
+CloudAPI="AIzaSyCc6FWkmU6_bhhRwgXO3szqULjsNz4uzUM"
